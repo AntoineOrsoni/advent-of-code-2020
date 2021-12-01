@@ -1,5 +1,5 @@
-# advent-of-code-2020
+# advent-of-code
 
 This repo contains my solutions for the Advent of code.
 
-https://adventofcode.com/
+https://adventofcode.com
